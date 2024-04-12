@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[3419],{4854:(_,e,n)=>{n.r(e),n.d(e,{default:()=>o});const o={multiverseCompanion__outer:"ZF7ftZMTliVGC38FnFFx",multiverseCompanion__container:"Xb6__f5_H8vnfQXhQXTD",multiverseCompanion__title:"Kyxb3qDEVpzKZqYVLknE",multiverseCompanion__multiverseWorld:"em1WOdy9hoMqfFmoOvur"}}}]);

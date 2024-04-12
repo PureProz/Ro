@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[8147],{6099:(_,e,a)=>{a.r(e),a.d(e,{default:()=>r});const r={gameContainer__wrapper:"EtDQGeSm9fMJvX4DEnsi",gameContainer__wrapper_fullscreen:"NkWoGaPyP66RXOHJSvnD",gameContainer__wrapper_ipadFix:"bqWCN9ZkqgLPEGLBPCLZ"}}}]);

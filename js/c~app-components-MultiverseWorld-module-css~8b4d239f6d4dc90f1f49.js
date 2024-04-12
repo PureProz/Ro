@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[8295],{9349:(_,s,D)=>{D.r(s),D.d(s,{default:()=>L});const L={multiverseWorld:"Ua4RD7m6rLVbM4dTKBIa"}}}]);
